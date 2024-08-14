@@ -1,0 +1,45 @@
+@charset "UT-8";
+h1{
+
+    background-color: rgb(60, 60, 232);
+    right: 300px;
+    width: 500px;
+
+    border-width: 10px;
+    border-style: solid;
+    border-color: darkolivegreen;
+
+    border: 10px solid darkolivegreen;
+
+
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+
+    padding: 10px 20px;
+   
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    margin-left: 100px;
+
+     
+
+    outline-width: 5px;
+    outline-style: dashed;
+    outline-color: salmon;
+
+    outline: 5px dashed salmon;
+    
+} 
+a {
+    display: inline-block;
+    border-width: 5px;
+    border-style: dashed;
+    border-color: rgb(61, 45, 186);
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}

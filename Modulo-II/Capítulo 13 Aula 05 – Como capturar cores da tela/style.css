@@ -1,0 +1,11 @@
+@charset "UTF-8";
+body{
+    background-color:rgb(239, 239, 245);
+    font-size: 16px;
+  }
+h2{
+    background-color: black; color:aliceblue; text-align:center;
+}
+ul{
+    text-align: justify; font-size: 19px;
+}

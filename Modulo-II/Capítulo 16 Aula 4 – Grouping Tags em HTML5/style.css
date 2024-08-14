@@ -1,0 +1,70 @@
+@charset "UT-8";
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: rgb(218, 218, 231);
+    margin: 0px;
+
+}
+
+header{
+    background-color: #0678B9;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow:  5px 6px 3px 0px rgba(0, 0, 0, 0.511);
+}
+
+nav{
+    background-color: rgb(255, 255, 255);
+    padding: 3px;
+    box-shadow:  5px 6px 3px 0px rgba(0, 0, 0, 0.511);
+}
+
+nav > a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    margin-right: 30px;
+}
+
+main{
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow:  5px 6px 3px 0px rgba(0, 0, 0, 0.511);
+
+}
+article{
+    background-color: rgba(230, 224, 224, 0.817);
+    padding: 5px;
+}
+
+article > aside {
+    background-color: rgba(150, 202, 176, 0.705);
+    width: 180px;
+}
+footer{
+    background-color: #113595;
+    text-align: center;
+    padding: 1px;
+    margin: 0px;
+    color: white;
+}
+footer > p {
+    margin: 0px;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+ 
+div#bola{
+        height: 100px;
+        width: 100px;
+        margin: 10px;
+        background-color: white;
+        border-radius: 50%;
+
+}
